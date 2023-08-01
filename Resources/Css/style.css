@@ -7,6 +7,7 @@
     --white-grey-color: #f7f7f7;
     --black-font-color: black;
     --footer-color: #111111;
+    --color-h1: #111111;
 }
 
 * {
@@ -181,6 +182,7 @@ main .release1 h1 {
     font-size: 24px;
     padding: 15px 0;
     font-family: Lexend;
+    color: var(--color-h1);
 }
 
 main .release1 img {
@@ -199,6 +201,7 @@ main .release1 .description {
 main .release1 .description h1 {
     font-family: Righteous;
     font-size: 42px;
+    color: var(--color-h1);
 }
 
 main .release1 .description h2 {
@@ -237,6 +240,7 @@ main .release2 h1 {
     font-size: 24px;
     padding: 15px 0;
     font-family: Lexend;
+    color: var(--color-h1);
 }
 
 main .release2 img {
@@ -255,6 +259,7 @@ main .release2 .description {
 main .release2 .description h1 {
     font-family: Righteous;
     font-size: 42px;
+    color: var(--color-h1);
 }
 
 main .release2 .description h2 {
